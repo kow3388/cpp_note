@@ -8,7 +8,7 @@
   ```
 
 以下是一個將不同data type互相轉換的簡單範例
-```cpp=
+```cpp
 //import stringstream
 #include <sstream>
 
